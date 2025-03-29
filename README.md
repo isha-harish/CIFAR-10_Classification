@@ -14,6 +14,9 @@ lm_studio_project_usingStreamlit
 │   └── Report           # Report of the architecture
 │
 └── Readme.md           # Documentation for the project.
+│
+└── requirements.txt         
+ 
 ```
 
 ## Steps to Run the App
