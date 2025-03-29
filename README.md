@@ -1,5 +1,5 @@
 # CIFAR 10 Classifier 
-This project explores the design and implementation of a custom Residual Neural Network (ResNet) architecture for image clas- sification on the CIFAR-10 dataset. 
+This project explores the design and implementation of a custom Residual Neural Network (ResNet) architecture for image classification on the CIFAR-10 dataset. 
 
 ---
 
