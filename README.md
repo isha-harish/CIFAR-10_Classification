@@ -7,7 +7,7 @@ This project explores the design and implementation of a custom Residual Neural 
 ## Folder Structure
 lm_studio_project_usingStreamlit
 │
-├── Main.py             # Main script 
+├── Main.ipynb             # Main script 
 │
 │
 ├── Documents       # Supporting documents 
