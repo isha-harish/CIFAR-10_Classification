@@ -39,7 +39,7 @@ or if it's a Jupyter notebook:
 jupyter notebook notebooks/Main.ipynb
 ```
 
-🔬 Technologies Used
+##🔬 Technologies Used:
 Python
 Matplotlib
 Pytorch
